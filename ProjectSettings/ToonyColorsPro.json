@@ -1,0 +1,15 @@
+{
+    "AutoNames": true,
+    "SubFolders": true,
+    "OverwriteConfig": false,
+    "LoadAllShaders": false,
+    "CustomOutputPath": "/JMO Assets/Toony Colors Pro/Shaders Generated/",
+    "LastImplementationExportImportPath": "D:/KACHURA.GAMES/shopping-mania/shopping-mania/invaders-city-defence/Assets",
+    "OpenedFoldouts": [],
+    "UseCustomFont": false,
+    "CustomFont": {
+        "instanceID": 0
+    },
+    "CustomFontInitialized": false,
+    "Upgrade_Hybrid1toHybrid2_Done": true
+}
